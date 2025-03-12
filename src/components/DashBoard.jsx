@@ -111,12 +111,7 @@ export default function DashBoard()
                 <h1 className="text-3xl font-bold">AlgoFlow</h1>
             </div>
 
-            {/* Common Button Style */}
-            {/** Defined the buttonStyle variable at the correct place inside JSX */}
-            {/** It ensures all buttons share the same styling */}
-            {/** Used `hover:bg-[#444]` for dark mode and `hover:bg-[#ccc]` for light mode */}
-            {/** Applied `w-full` to maintain consistency across all buttons */}
-            {/** Added `transition` to enhance the hover effect smoothly */}
+            
             {(() => {
                 const buttonStyle = `w-full py-2 text-lg rounded-xl cursor-pointer transition ${
                 darkMode ? "hover:bg-[#444]" : "hover:bg-[#ccc]"
@@ -179,16 +174,6 @@ export default function DashBoard()
                             onClick={() => setIsSideNavBarOpen(false)}
                         >
                             Linear Search
-                        </button>
-                        </Link>
-                    </nav>
-                    <nav className="w-50">
-                        <Link to="/dashBoard/bfstraversal">
-                        <button
-                            className={`${buttonStyle} ${dashBoardElement === "BFS Traversal" ? "text-red-700" : ""}`}
-                            onClick={() => setIsSideNavBarOpen(false)}
-                        >
-                 
                         </button>
                         </Link>
                     </nav>
