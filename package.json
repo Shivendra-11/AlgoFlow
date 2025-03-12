@@ -1,8 +1,7 @@
 {
-  "name": "vizlearn",
+  "name": "algflow",
   "version": "1.0.0",
-  "description": "VizLearn - A platform to visualize data structures and algorithms",
-  "main": "index.js",
+  "description": "AlgoFlow - A platform to visualize data structures and algorithms",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build index.html --public-url ./",
