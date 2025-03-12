@@ -10,7 +10,6 @@ import store from "./store"
 import { BrowserRouter, Routes, Route } from "react-router";
 import StackVisualizer from "./components/StackVisualizer";
 import LinkedListVisualizer from "./components/LinkedListVisualizer";
-import BfsTraversal from "./components/BfsTraversal";
 import InfixToPostfixVisualizer from "./components/InfixToPostfixVisualizer";
 import LinearSearchVisualizer from "./components/LinearSearchVisualizer";
 
@@ -29,7 +28,7 @@ function App(){
                         <Route path="linkedlists" element={<LinkedListVisualizer/>}></Route>
                         <Route path="infix-to-postfix" element={<InfixToPostfixVisualizer/>}></Route>
                         <Route path="linearsearch" element={<LinearSearchVisualizer/>}></Route>  
-                        <Route path="bfs-traversal" element={<BfsTraversal/>}></Route> 
+                        {/* <Route path="bfs-traversal" element={<BfsTraversal/>}></Route>  */}
                     </Route>
                 </Routes>
             </BrowserRouter>

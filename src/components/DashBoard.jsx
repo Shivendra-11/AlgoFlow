@@ -188,7 +188,7 @@ export default function DashBoard()
                             className={`${buttonStyle} ${dashBoardElement === "BFS Traversal" ? "text-red-700" : ""}`}
                             onClick={() => setIsSideNavBarOpen(false)}
                         >
-                            BFS Traversal
+                 
                         </button>
                         </Link>
                     </nav>
