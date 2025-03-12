@@ -1,7 +1,8 @@
 {
-  "name": "algflow",
+  "name": "algoflow",
   "version": "1.0.0",
-  "description": "AlgoFlow - A platform to visualize data structures and algorithms",
+  "description": "algoflow - A platform to visualize data structures and algorithms",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build index.html --public-url ./",
