@@ -1,8 +1,8 @@
-# VizLearn - The DSA Visualizer
+# AlgoFlow - The DSA Visualizer
 
 ## 🚀 About
 
-VizLearn is an interactive Data Structures and Algorithms (DSA) visualizer designed to help students and developers understand complex concepts through animated visualizations. It provides step-by-step explanations for various algorithms and data structures, making learning more engaging and effective.
+AlgoFlow is an interactive Data Structures and Algorithms (DSA) visualizer designed to help students and developers understand complex concepts through animated visualizations. It provides step-by-step explanations for various algorithms and data structures, making learning more engaging and effective.
 
 ## 🌟 Features
 
@@ -39,7 +39,7 @@ VizLearn is an interactive Data Structures and Algorithms (DSA) visualizer desig
 
 ## 🔧 Installation
 
-To set up VizLearn locally, follow these steps:
+To set up AlgoFlow locally, follow these steps:
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/viz-learn.git
@@ -67,7 +67,7 @@ Experiment with different inputs to see how the algorithm adapts.
 
 ## 🚀 Future Enhancements
 
-We have exciting plans to expand VizLearn further! Here’s what’s coming next:
+We have exciting plans to expand AlgoFlow further! Here’s what’s coming next:
 
 🔜 Graph Algorithms - BFS and DFS Traversal Visualizations.
 
@@ -81,7 +81,7 @@ We have exciting plans to expand VizLearn further! Here’s what’s coming next
 
 ## 🤝 Contributing
 
-We welcome contributions to improve VizLearn! To contribute:
+We welcome contributions to improve AlgoFlow! To contribute:
 ```bash
 # Fork the repository on GitHub
 git fork https://github.com/your-username/viz-learn.git
@@ -119,7 +119,7 @@ Email: premsiddcoding@gmail.com
 
 GitHub: [https://github.com/Siddharth9304]
 
-🎓 Empower your DSA learning with VizLearn! 🚀
+🎓 Empower your DSA learning with AlgoFlow! 🚀
 
 
 
