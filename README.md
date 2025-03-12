@@ -79,7 +79,7 @@ We have exciting plans to expand AlgoFlow further! Here’s what’s coming next
 
 🔜 Algorithm Race Mode - Compare different algorithms side by side to analyze their efficiency.
 
-## 🤝 Contributing
+
 
 We welcome contributions to improve AlgoFlow! To contribute:
 ```bash
@@ -105,19 +105,12 @@ Then, create a Pull Request on GitHub.
 
 ## Live Website
 
-Check out the live version of this project: [https://viz-learn.vercel.app]
+Check out the live version of this project: [https://algo-flow-nine.vercel.app/]
 
 ## GitHub Repository
 
-You can find the repository for this project on GitHub: [https://github.com/Siddharth9304/viz-learn]
+You can find the repository for this project on GitHub: [https://github.com/Shivendra-11/AlgoFlow]
 
-## 📞 Contact
-
-Project Maintainer: Prem Siddhartha
-
-Email: premsiddcoding@gmail.com
-
-GitHub: [https://github.com/Siddharth9304]
 
 🎓 Empower your DSA learning with AlgoFlow! 🚀
 
