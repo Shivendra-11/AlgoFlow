@@ -10,8 +10,8 @@ export default function AboutContent()
                 <h3 className={`text-4xl font-bold`}>What is AlgoFlow ?</h3>
                 <p className="text-2xl/relaxed mb-8">AlgoFlow is an interactive online platform designed to help students visualize Data Structures and Algorithms (DSA) in an intuitive and engaging way. Instead of just reading theory or coding blindly, AlgoFlow brings DSA concepts to life through step-by-step animations and interactive visualizations.</p>
                 <div className="flex justify-around flex-wrap gap-10">
-                    <img src={introImg} alt="introImg" className="w-[95%] md:w-[45%] rounded-xl"/>
-                    <img src={introImgDark} alt="" className="w-[95%] md:w-[45%] rounded-xl"/>
+                    {/* <img src={introImg} alt="introImg" className="w-[95%] md:w-[45%] rounded-xl"/>
+                    <img src={introImgDark} alt="" className="w-[95%] md:w-[45%] rounded-xl"/> */}
                 </div>
             </div>
             <div className="flex flex-col gap-10">
